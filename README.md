@@ -1,5 +1,5 @@
 Youtube:https://www.youtube.com/watch?v=Loosrm7UzHE
-
+mydb.sql database için kullanınız
 
 ![image](https://user-images.githubusercontent.com/119972020/234865732-fa5b6a4a-403e-4d79-822a-2f24e35234cf.png)
 
